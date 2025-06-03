@@ -1,5 +1,5 @@
 # BY @gqdThinky 
-# YouTube : https://youtube.com/c/obvThinky 
+# YouTube : https://www.youtube.com/@gqdThinky 
 
 
 import discord
